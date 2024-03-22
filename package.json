@@ -1,0 +1,36 @@
+{
+  "name": "sintsunt",
+  "version": "1.0.0",
+  "description": "Filepicker client javascript library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyreeBartoletti/sintsunt.git"
+  },
+  "keywords": [
+    "filepicker",
+    "quis",
+    "non",
+    "file",
+    "processing",
+    "accusantium",
+    "dolores"
+  ],
+  "author": "LeonelNienow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TyreeBartoletti/sintsunt.git/issues"
+  },
+  "homepage": "https://github.com/TyreeBartoletti/sintsunt.git",
+  "devDependencies": {
+    "jasmine-core": "2.3.4",
+    "jshint": "2.8.0",
+    "karma": "0.13.19",
+    "karma-firefox-launcher": "0.1.6",
+    "karma-jasmine": "0.3.6",
+    "karma-jasmine-ajax": "0.1.13",
+    "onchange": "2.0.0",
+    "uglify-js": "2.4.24"
+  },
+  "dependencies": {}
+}
